@@ -1,0 +1,1 @@
+Arm架构是一种基于RISC（ReducedInstruction Set Computer，精简指令集计算机）思想的处理器架构，由ARM公司设计并推广。与传统的CISC（Complex Instruction SetComputer，复杂指令集计算机）架构相比，Arm架构的指令集更加简洁明了，指令执行效率更高，能够在更低的功耗下完成同样的计算任务，因此在低功耗、嵌入式等领域具有广泛的应用。
